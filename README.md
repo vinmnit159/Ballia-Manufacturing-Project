@@ -11,4 +11,4 @@ Project Ballia/
 ├── Ideas.md
 └── Lessons Learned.md
 
-My town has no industry and I want to generate employment.
+My town has no industry and SomeDay i want to build a system to generate employment.
